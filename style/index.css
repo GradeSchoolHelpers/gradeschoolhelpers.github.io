@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#headerTop {
+    height: 3em;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+#gshipLogo {
+    width: 4em;
+    padding-right: 1em;
+}
+
+#headerTitle {
+    font-size: x-large;
+    font-weight: bold;
+}
+
